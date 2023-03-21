@@ -1,0 +1,6 @@
+1.2022Nov-Dec:
+the effective data of mobile learning contexts for  around 41 learners from 2022-11-28 to 2022-12-21.
+2.2021Sep-Dec.csv:
+the dataset of mobile learning contexts for around 25 learners from 2021-9-28 to 2021-12-6. It is noted that part of these learners are also the part of above 41 learners in 2022Nov-Dec.
+3.no time.csv:
+the mobile learning contexts data without time, it can be used to test the model for recognizing and classifying the mobile learning contexts and so on.
